@@ -1,8 +1,7 @@
 # patient-system-master
 ## Summary
 ### Simple full stack project with RESTful Web services API and also using for consuming REST API using Spring Boot and React. Spring Boot (MVC, JPA, Hibernate) and Mysql Database were used to create the Backend application (Restful web service API) and React.js was used to create the frontend application with Material UI and React Hooks(useState, useEffect) for the functional components.
-## [Demo Video](https://youtu.be/hL0TMtTsIB8)
-### Video showcasing the Application since the project setup is long and tedious.
+## [Demo Video](https://youtu.be/hL0TMtTsIB8) -- Video showcasing the Application since the project setup is long and tedious.
 ## Technology Used:
 ### Spring Boot, Java 8, Maven, Apache TomCat, MySql, React, Node.js, Intellij IDEA, VsCode, Postman, XAMPP, MaterialUI, ClearDB, Heroku
 ## Backend
