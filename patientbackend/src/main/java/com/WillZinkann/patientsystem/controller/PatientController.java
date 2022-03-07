@@ -25,10 +25,5 @@ public class PatientController {
         return patientService.getAllPatients();
     }
 
-    @RequestMapping(value = "/delete/{id}", method = RequestMethod.GET)
-    public String delete(@PathVariable("id") int id) {
-        patientService.deletePatient(id);
-        return "Patient with id " + id + " removed";
-    }
 }
 
